@@ -23,6 +23,14 @@ This program controls a motor speed controller using a push button and a potenti
 7. Press the push button to increase the motor speed
 8. Use the switch to change the motor direction
 9. The built-in LED and speaker indicate the status of the motor speed and direction
+
+## Example
+
+<p align="center"><img src="https://user-images.githubusercontent.com/77733903/227080400-9290c514-ba7b-4f7c-ac2f-f24bac2940c7.jpg" width="500"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/77733903/227080396-8d25ef2d-d963-45c0-9b93-01cdba2fd6db.jpg" width="300"><img src="https://user-images.githubusercontent.com/77733903/227080392-9b89ad09-ea37-41ec-8f6c-6668db9ee3d1.jpg" width="300"></p>
+
+
+
 ## License
 
 This code is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
